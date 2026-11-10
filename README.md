@@ -4,6 +4,10 @@
    <sub>soundcloud desktop client built with tauri v2, rust, and vue 3.</sub>
 </div>
 
+> [!WARNING]
+> Project is deprecated, better to use new native app:  
+> https://github.com/dest4590/rustcloud
+
 ---
 
 ## comparison
